@@ -1,13 +1,10 @@
 Party organisation
 -------------------------
+* Invitee:
 
-Max : juice
-Julia : chips 
-Lea : vine
-
-Schedule :  
-20:00 door opens
+* Schedule:
+20:00 door opens,  
 21:00 music
 
-Music:
-DJ blabla
+* Music:
+--------------------------
